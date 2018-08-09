@@ -1,0 +1,9 @@
+参数名称,测试数据,接口名称
+token,AKH_AJ3D4Lk8RSZLTyqXdCd5NuN4rX6q,获取班级列表
+courseid,250,
+content,ceshi,新增笔记
+chapterid,12205,
+chaptername,1.1,
+noteid,106,删除笔记（需更新数据）
+noteid,107,修改笔记
+content,1234,

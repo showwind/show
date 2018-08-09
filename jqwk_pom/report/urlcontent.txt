@@ -1,6 +1,0 @@
-关于中新金桥==>
-回到首页==>/academic.php
-联系我们==>
-控制面板==>/academic
-关于微课==>
-admin11==>javascript:void(0)
