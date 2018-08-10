@@ -17,7 +17,7 @@ def creatsuitel():
 #定义个报告存放路径，支持相对路径 
 if __name__=="__main__":
 	now = time.strftime('%Y-%m-%d-%H_%M_%S',time.localtime(time.time()))
-	filename = 'E:\\test\\csh\\report\\'+now+'result.html'  
+	filename = 'E:\\test\\csh\\report\\result.html'  
 	fp = open(filename,'wb')
 	runner =HTMLTestRunner.HTMLTestRunner( 
 		stream=fp, 
